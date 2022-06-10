@@ -1,4 +1,6 @@
-# Modulo III - JavaScript
+#Bootcamp TQI Fullstack Developer
+
+## Modulo III - JavaScript
 
 Desafio de projeto: Desenvolvendo um jogo da memória
 
